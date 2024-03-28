@@ -1,4 +1,4 @@
-# focusgym
+# diceroller
 
 A new Flutter project.
 
