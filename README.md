@@ -1,6 +1,6 @@
 # diceroller
 
-A new Flutter project.
+My first futter training project. Very fun and simple cross-platform application for rolling a dice. :D
 
 ## Getting Started
 
